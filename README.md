@@ -1,7 +1,7 @@
 # Kampüs Film Kulübü - Dizi Arama Uygulaması
 
 
-[Siteye Git](https://MustafaUgurTuluk.github.io/FilmSite).
+[Siteye Git](https://MustafaUgurTuluk.github.io/FilmSite)
 
 
 
