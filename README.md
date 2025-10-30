@@ -13,6 +13,5 @@
 
 ## Kullanılan Teknolojiler
 - React
-- useReducer
-- useEffect
+- TVMaze API
 - Axios
